@@ -31,7 +31,7 @@ As the graph is undirected, the `source` and `target` can be interchanged for th
 
 ## Cross-Validation
 
-We also release ten cross-validation train/validation/test splits in the files `splits_train.tsv`, `splits_val.tsv`, and `splits_test.tsv`. The first column, `id`, is the unique identifier of the annotator. Other ten columns are binary masks indicated whether this node is included in the current split. To obtain the complete first cross-validation split, one has to pick the first split from train, the first split from validation, and the first split of the test files.
+We also release ten cross-validation train/validation/test splits in the files [splits_train.tsv](splits_train.tsv), [splits_val.tsv](splits_val.tsv), and [splits_test.tsv](splits_test.tsv). The first column, `id`, is the unique identifier of the annotator. Other ten columns are binary masks indicated whether this node is included in the current split. To obtain the complete first cross-validation split, one has to pick the first split from train, the first split from validation, and the first split of the test files.
 
 ## Copyright
 
