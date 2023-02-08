@@ -2,7 +2,7 @@
 
 This repository contains a graph representing interactions between crowd annotators on a project labeled on the [Toloka](https://toloka.ai/) crowdsourcing platform (see the [Toloka overview](https://toloka.ai/en/docs/guide/concepts/overview) for the details on the used terminology).
 
-The graph contains 11,759 nodes and 519,000 edges. Each node represents an individual annotator; nodes are provided with four numerical and three categorical features. An edge is drawn between a pair of annotators if they annotated the same task. Also, each node is provided with a label showing whether the annotator was banned on this project, or not.
+The graph contains 11,758 nodes and 519,000 edges. Each node represents an individual annotator; nodes are provided with four numerical and three categorical features. An edge is drawn between a pair of annotators if they annotated the same task. Also, each node is provided with a label showing whether the annotator was banned on this project, or not.
 
 ## Nodes
 
