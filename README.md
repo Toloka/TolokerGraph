@@ -27,7 +27,7 @@ Edges are stored in the [edges.tsv](edges.tsv) file in the TSV format of the fol
 - `source`: source identifier of the annotator
 - `target`: target identifier of the annotator
 
-As the graph is undirected, the `source` and `target` can be interchanged for the given pair of nodes.
+As the graph is undirected, `source` and `target` can be interchanged for the given pair of nodes.
 
 ## Cross-Validation
 
